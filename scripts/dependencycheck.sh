@@ -5,7 +5,7 @@ DC_DIRECTORY="."
 DC_PROJECT="dependency-check scan: $(pwd)"
 DATA_DIRECTORY="$DC_DIRECTORY/.owasp-dependency-check/data"
 CACHE_DIRECTORY="$DC_DIRECTORY/.owasp-dependency-check/data/cache"
-WORKING_DIRECTORY="CHANGE THIS TO YOUR PROJECT DIRECTORY"
+WORKING_DIRECTORY="🔥🔥🔥🔥PLEASE CHANGE THIS TO YOUR PROJECT DIRECTORY PATH"
 
 if [ ! -d "$DATA_DIRECTORY" ]; then
     echo "Initially creating persistent directory: $DATA_DIRECTORY"
