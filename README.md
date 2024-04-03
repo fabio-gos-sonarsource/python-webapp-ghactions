@@ -11,7 +11,7 @@ sh ./scripts/dependencycheck.sh
 Ensure that you have Docker installed.
 Then run:
 ```bash
-sh ./scripts/zap.sh
+sh ./scripts/zaproxy.sh
 ```
 
 ### Running SonarScanner
